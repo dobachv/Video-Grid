@@ -114,9 +114,9 @@ html {
     background-color: black;
     z-index: 10;
     width: 100vw;
-    height: 100vh;
+    height: 1000px;
     mask-image: linear-gradient(to right, transparent 0%, transparent 100%, black 60%, black 100%),
-    linear-gradient(to bottom,  transparent 0%, transparent 200px, black 200px, black 100%);
+    linear-gradient(to bottom,  transparent 0%, transparent 260px, black 260px, black 100%);
 
 }
 
